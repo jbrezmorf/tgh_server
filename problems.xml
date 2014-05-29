@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<problems>
+	<item>
+		<problemcode>TEST</problemcode>
+		<problemname>pokusná úloha</problemname>               
+	</item>
+	<item>
+		<problemname>Zeleznicni plan</problemname>
+		<problemcode>BIGLOKO1</problemcode>
+	</item>
+	<item>
+		<problemname>Bludiste</problemname>
+		<problemcode>MINOS</problemcode>
+	</item>
+        <item>
+                <problemname>Přelévání nádob</problemname>
+                <problemcode>MINSPILL</problemcode>
+                
+        </item>
+	<item>
+		<problemname>Web stranky</problemname>
+		<problemcode>WEBISL</problemcode>
+	</item>
+        <item>
+                <problemname>Eletrika</problemname>
+                <problemcode>ELECTRIC</problemcode>
+        </item>        
+	<item>
+		<problemname>Sudkou</problemname>
+		<problemcode>SUDOGOB</problemcode>
+	</item>
+	<item>
+		<problemname>IDOS</problemname>
+		<problemcode>IDOS</problemcode>
+	</item>
+	<item>
+		<problemname>Segmentace obrazu</problemname>
+		<problemcode>SEGMENT</problemcode>
+	</item>
+	<item>
+		<problemname>Nejspolehlivejsi cesta</problemname>
+		<problemcode>RELCONN</problemcode>
+	</item>
+</problems>
